@@ -13,5 +13,7 @@
 ----------------------
 ######6、carousel-6(javascript改变opacity)效果演示:<a href="http://wjf444128852.github.io/demo/carousel-06/index.html" target="_blank">http://wjf444128852.github.io/demo/carousel-06/</a>
 ----------------------
-######7、carousel-7(jquerySlide插件轮播效果)效果演示:<a href="http://wjf444128852.github.io/demo/jQuerySlide/demo02.html" target="_blank">http://wjf444128852.github.io/demo/jQuerySlide/demo02.html</a>
+######7、carousel-7-1(jquerySlide插件Tab切换)效果演示:<a href="http://wjf444128852.github.io/demo/jQuerySlide/demo01.html" target="_blank">http://wjf444128852.github.io/demo/jQuerySlide/demo01.html</a>
+----------------------
+######7、carousel-7-2(jquerySlide插件轮播效果)效果演示:<a href="http://wjf444128852.github.io/demo/jQuerySlide/demo02.html" target="_blank">http://wjf444128852.github.io/demo/jQuerySlide/demo02.html</a>
 ----------------------
