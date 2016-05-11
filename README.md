@@ -9,3 +9,6 @@
 ----------------------
 ######4、carousel-4(推荐)效果演示:<a href="http://wjf444128852.github.io/demo/carousel_04/index.html" target="_blank">http://wjf444128852.github.io/demo/carousel_04/</a>
 ----------------------
+######5、carousel-5(jquery的兼容性好点)效果演示:<a href="http://wjf444128852.github.io/demo02/Carousel/Carousel-3JQ/index.html" target="_blank">http://wjf444128852.github.io/demo02/Carousel/Carousel-3JQ/</a>
+----------------------
+
