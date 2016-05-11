@@ -7,3 +7,5 @@
 ----------------------
 ######3、carousel-3效果演示:<a href="http://wjf444128852.github.io/demo/carousel_03/index.html" target="_blank">http://wjf444128852.github.io/demo/carousel_03/</a>
 ----------------------
+######4、carousel-4(推荐)效果演示:<a href="http://wjf444128852.github.io/demo/carousel_04/index.html" target="_blank">http://wjf444128852.github.io/demo/carousel_04/</a>
+----------------------
